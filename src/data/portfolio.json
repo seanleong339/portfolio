@@ -1,0 +1,11 @@
+{
+     "portfolio": [
+        {
+            "cover": "/portfolio/coffeenet/Coffeenet.png",
+            "title": "Coffeenet",
+            "tech": "Tech stack: React, Golang, Mongodb",
+            "description": "Coffeenet is a networking application aimed at enhancing the networking experience of university students. Click the button below to try it out!",
+            "url": "https://apps.apple.com/sg/app/coffeenet/id6450865475"
+        }
+     ]
+}
