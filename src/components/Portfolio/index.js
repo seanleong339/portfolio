@@ -53,7 +53,7 @@ const Portfolio = () => {
             <h1 className="page-title">
                 <AnimatedLetters letterClass={letterClass} str={pageTitle} idx={15}/>
             </h1>
-            <p>
+            <p className="page-description">
                 Here is a list of my projects and experiences. (More changes and improvements to this page to be added!)
             </p>
             <div>
